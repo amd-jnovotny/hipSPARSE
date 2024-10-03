@@ -1,3 +1,10 @@
+---
+myst:
+    html_meta:
+        "description": "hipSparse licensing information"
+        "keywords": "hipSPARSE, rocSPARSE, ROCm, API, documentation, license"
+---
+
 MIT License
 
 Copyright © 2018-2024 Advanced Micro Devices, Inc.
