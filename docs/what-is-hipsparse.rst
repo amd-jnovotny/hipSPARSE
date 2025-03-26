@@ -1,6 +1,6 @@
 .. meta::
-  :description: hipSPARSE documentation and API reference library
-  :keywords: hipSPARSE, rocSPARSE, ROCm, API, documentation
+  :description: An introduction to hipSPARSE and the API reference library
+  :keywords: hipSPARSE, rocSPARSE, ROCm, API, documentation, introduction
 
 .. _hipsparse_intro:
 
